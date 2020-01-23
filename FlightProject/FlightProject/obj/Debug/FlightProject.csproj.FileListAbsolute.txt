@@ -1,0 +1,5 @@
+/Users/divyamanirajan/Projects/FlightProject/FlightProject/bin/Debug/FlightProject.exe
+/Users/divyamanirajan/Projects/FlightProject/FlightProject/bin/Debug/FlightProject.pdb
+/Users/divyamanirajan/Projects/FlightProject/FlightProject/obj/Debug/FlightProject.csprojAssemblyReference.cache
+/Users/divyamanirajan/Projects/FlightProject/FlightProject/obj/Debug/FlightProject.exe
+/Users/divyamanirajan/Projects/FlightProject/FlightProject/obj/Debug/FlightProject.pdb
